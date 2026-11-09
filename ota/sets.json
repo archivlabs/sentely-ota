@@ -6,9 +6,9 @@
       "name": {
         "en": "Korean SAT English 1",
         "ko": "수능 영어 1",
-        "ja": "韓国大学入試 英語 1",
-        "zh-Hans": "韩国高考英语 1",
-        "zh-Hant": "韓國大學入學考試英語 1"
+        "ja": "高校英語 1",
+        "zh-Hans": "高中英语 1",
+        "zh-Hant": "高中英語 1"
       },
       "audience": "adult",
       "sentences": 10,
@@ -17,9 +17,9 @@
       "summary": {
         "en": "Sentences on learning, science and society in the style of Korea's college entrance exam. Read aloud by an AI voice.",
         "ko": "학습, 과학, 사회를 다룬 수능 영어 스타일의 문장. AI 음성 낭독 포함.",
-        "ja": "学習・科学・社会を扱う韓国大学入試スタイルの文。AI 音声の読み上げ付き。",
-        "zh-Hans": "以学习、科学、社会为主题的韩国高考英语风格句子。附 AI 语音朗读。",
-        "zh-Hant": "以學習、科學、社會為主題的韓國大學入學考試英語風格句子。附 AI 語音朗讀。"
+        "ja": "学習・科学・社会を扱う高校英語の文。AI 音声の読み上げ付き。",
+        "zh-Hans": "以学习、科学、社会为主题的高中英语句子。附 AI 语音朗读。",
+        "zh-Hant": "以學習、科學、社會為主題的高中英語句子。附 AI 語音朗讀。"
       }
     },
     {
